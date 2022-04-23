@@ -1,0 +1,1 @@
+To run the project, apply the functions to a route and pass relevant parameters to it
